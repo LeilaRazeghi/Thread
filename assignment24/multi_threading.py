@@ -31,4 +31,4 @@ end_time=time()
 
 print(end_time-start_time)
 
-#result= 32.042940616607666
+#result= 17.247095346450806
